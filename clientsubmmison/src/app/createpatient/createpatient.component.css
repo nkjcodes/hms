@@ -1,0 +1,10 @@
+.bg{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt_YBbbKyOD_NieelbHjFpHfSdkSchzPVDQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 600px; */
+}
+.container{
+    height: auto;
+    background-color: #a047e9c4;
+}
